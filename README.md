@@ -1,13 +1,8 @@
-# ✈️ SkyBot — GenAI Flight Booking Chatbot
+# SkyBot - GenAI Flight Booking Chatbot
 
 A conversational flight booking assistant with Groq LLMs, FastAPI, SQLAlchemy, and React.
 
-### Suggested GitHub Topics
-
-`ai` `chatbot` `flight-booking` `travel` `generative-ai` `llm` `groq` `tool-calling` `function-calling` `fastapi` `python` `react` `vite` `sqlalchemy` `sqlite` `full-stack` `conversational-ai` `booking-system`
-
-
-## 🌟 Key Features
+## Key Features
 
 1. **Groq LLM Integration**: Natural language understanding without rigid intents or brittle regex. Powered by fast inference on Groq (`llama-3.3-70b-versatile`).
 2. **Autonomous Tool Calling**:
@@ -31,7 +26,7 @@ A conversational flight booking assistant with Groq LLMs, FastAPI, SQLAlchemy, a
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 Flight Booking Chatbot/
@@ -80,7 +75,7 @@ Flight Booking Chatbot/
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### 1. Environment Configuration
 Copy `.env.example` to `.env` and add your Groq API key:
