@@ -1,0 +1,78 @@
+flight_id,from,to,date,departure_time,arrival_time,airline,price
+FL101,London,Paris,2024-12-10,08:30,10:45,British Airways,100
+FL102,London,Paris,2024-12-10,14:00,16:15,Air France,120
+FL103,London,Paris,2024-12-10,18:45,21:00,EasyJet,85
+FL104,London,Paris,2024-12-11,09:15,11:30,British Airways,110
+FL105,London,Paris,2024-12-12,12:00,14:15,Air France,125
+FL106,Paris,London,2024-12-10,07:15,07:30,Air France,95
+FL107,Paris,London,2024-12-11,15:30,15:45,British Airways,105
+FL108,Paris,London,2024-12-15,19:00,19:15,EasyJet,80
+FL201,London,New York,2024-12-10,11:00,14:30,Virgin Atlantic,500
+FL202,London,New York,2024-12-10,14:15,17:45,British Airways,530
+FL203,London,New York,2024-12-11,10:30,14:00,Delta Air Lines,480
+FL204,London,New York,2024-12-12,16:30,20:00,British Airways,550
+FL205,London,New York,2024-12-15,08:45,12:15,American Airlines,510
+FL206,New York,London,2024-12-10,19:30,07:45,Virgin Atlantic,520
+FL207,New York,London,2024-12-12,22:00,10:15,British Airways,540
+FL208,New York,London,2024-12-16,18:00,06:15,Delta Air Lines,495
+FL301,Paris,Tokyo,2024-12-15,13:20,09:50,Air France,700
+FL302,Paris,Tokyo,2024-12-18,17:40,14:10,Japan Airlines,740
+FL303,Tokyo,Paris,2024-12-22,11:15,18:30,Air France,720
+FL401,Tokyo,Sydney,2024-12-20,21:00,08:30,Japan Airlines,900
+FL402,Tokyo,Sydney,2024-12-22,22:30,10:00,Qantas,870
+FL403,Sydney,Tokyo,2024-12-27,09:45,17:15,Qantas,880
+FL501,Dubai,London,2024-12-10,07:45,12:15,Emirates,420
+FL502,Dubai,London,2024-12-10,14:30,19:00,British Airways,410
+FL503,Dubai,London,2024-12-12,02:50,07:20,Emirates,450
+FL504,Dubai,London,2024-12-14,15:00,19:30,British Airways,390
+FL505,Dubai,London,2024-12-18,08:15,12:45,Emirates,430
+FL506,London,Dubai,2024-12-10,13:45,23:55,Emirates,440
+FL507,London,Dubai,2024-12-12,20:40,06:50,British Airways,425
+FL508,London,Dubai,2024-12-15,14:00,00:10,Emirates,460
+FL601,New York,Paris,2024-12-10,18:00,07:20,Air France,560
+FL602,New York,Paris,2024-12-13,21:30,10:50,Delta Air Lines,540
+FL603,Paris,New York,2024-12-16,10:15,12:45,Air France,575
+FL701,Singapore,Tokyo,2024-12-11,06:30,14:15,Singapore Airlines,380
+FL702,Singapore,Tokyo,2024-12-14,23:55,07:40,Japan Airlines,360
+FL703,Tokyo,Singapore,2024-12-18,10:50,17:20,Singapore Airlines,390
+FL801,London,Frankfurt,2024-12-10,07:00,09:40,Lufthansa,130
+FL802,London,Frankfurt,2024-12-11,16:15,18:55,British Airways,120
+FL803,Frankfurt,London,2024-12-13,11:30,12:10,Lufthansa,135
+FL901,Dubai,Singapore,2024-12-12,03:15,14:40,Emirates,350
+FL902,Dubai,Singapore,2024-12-16,09:25,20:50,Singapore Airlines,370
+FL903,Singapore,Dubai,2024-12-20,15:10,18:45,Emirates,360
+FL951,New York,Los Angeles,2024-12-10,06:00,09:15,Delta Air Lines,280
+FL952,New York,Los Angeles,2024-12-10,11:30,14:45,United Airlines,260
+FL953,New York,Los Angeles,2024-12-12,17:00,20:15,American Airlines,290
+FL954,Los Angeles,New York,2024-12-14,08:30,16:50,Delta Air Lines,275
+FL955,Los Angeles,New York,2024-12-16,13:00,21:20,United Airlines,265
+FL971,London,Amsterdam,2024-12-10,08:15,10:35,KLM,95
+FL972,London,Amsterdam,2024-12-11,14:20,16:40,British Airways,105
+FL973,London,Amsterdam,2024-12-13,19:10,21:30,EasyJet,75
+FL974,Amsterdam,London,2024-12-15,11:00,11:15,KLM,90
+FL981,Rome,London,2024-12-11,10:20,12:10,British Airways,115
+FL982,Rome,London,2024-12-14,16:45,18:35,ITA Airways,125
+FL983,London,Rome,2024-12-12,09:00,12:35,British Airways,110
+FL984,London,Rome,2024-12-15,15:10,18:45,EasyJet,85
+FL991,Doha,London,2024-12-10,01:30,06:15,Qatar Airways,460
+FL992,Doha,London,2024-12-13,08:00,12:45,Qatar Airways,480
+FL993,London,Doha,2024-12-11,14:00,23:45,Qatar Airways,470
+FL994,Doha,New York,2024-12-15,08:15,14:35,Qatar Airways,680
+FL995,New York,Doha,2024-12-18,20:30,16:40,Qatar Airways,690
+FL611,Peshawar,Dubai,2026-10-10,04:15,06:45,Emirates,290
+FL612,Peshawar,Dubai,2026-10-10,11:30,14:00,flydubai,240
+FL613,Peshawar,Dubai,2026-10-10,21:00,23:30,Pakistan International Airlines,220
+FL614,Peshawar,Dubai,2024-12-10,05:00,07:30,flydubai,230
+FL615,Peshawar,Dubai,2024-12-15,10:30,13:00,Emirates,280
+FL616,Dubai,Peshawar,2026-10-10,08:00,12:15,Emirates,290
+FL617,Dubai,Peshawar,2024-12-10,15:00,19:15,flydubai,240
+FL621,Islamabad,Dubai,2026-10-10,03:30,06:00,Emirates,310
+FL622,Islamabad,Dubai,2026-10-10,09:15,11:45,flydubai,250
+FL623,Islamabad,Dubai,2026-10-10,16:00,18:30,Airblue,220
+FL624,Islamabad,Dubai,2024-12-10,07:00,09:30,Emirates,320
+FL625,Islamabad,Dubai,2024-12-12,14:45,17:15,flydubai,260
+FL626,Dubai,Islamabad,2026-10-10,10:30,14:45,Emirates,310
+FL631,Lahore,Dubai,2026-10-10,05:15,07:45,Emirates,300
+FL632,Lahore,Dubai,2026-10-10,13:30,16:00,Airblue,230
+FL641,Karachi,Dubai,2026-10-10,06:45,08:00,Emirates,240
+FL642,Karachi,Dubai,2026-10-10,18:20,19:35,flydubai,210
